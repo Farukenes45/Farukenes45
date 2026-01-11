@@ -5,7 +5,8 @@ I’m Enes, a **Mechatronics Engineer** with an interest in automation, control 
 
 ---
 
-## 🛠️ Skills & Competencies
+## 🛠️ Skills & Competencies<img width="1344" height="768" alt="banner" src="https://github.com/user-attachments/assets/aa47e990-d8f7-481f-bf93-79a72234efbb" />
+
 
 - ⚡ Reading and understanding **electrical & control system schematics**
 - 🧠 **PLC & HMI programming**
