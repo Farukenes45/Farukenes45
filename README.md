@@ -1,5 +1,6 @@
-
-# 👋 Hi, I’m Enes, a **Mechatronics Engineer** with an interest in automation, control systems, and software development. I enjoy combining electrical, mechanical, and software knowledge to build practical solutions.
+md
+# 👋 Hi, I’m Enes,
+I’m Enes, a **Mechatronics Engineer** with an interest in automation, control systems, and software development. I enjoy combining electrical, mechanical, and software knowledge to build practical solutions.
 
 ---
 
